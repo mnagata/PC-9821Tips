@@ -1,5 +1,5 @@
 # PC-9821Tips
-PC-9821 TIPS
+PC-9821のTIPS集
 
 #### PC-9821 ドライバ アップデート リンク
 https://download-drv.com/driver/nec/html/PC-982.htm
