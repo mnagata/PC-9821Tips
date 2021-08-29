@@ -5,5 +5,5 @@ PC-9821 TIPS
 https://download-drv.com/driver/nec/html/PC-982.htm
 
 #### HSB.EXEのPentium対応方法
-Ｄ５，０８，８１，Ｅ１，Ｄ５，０８，３Ｂ，Ｃ１と並んでいる直後の７４，　ｘｘ（HEX）を９０，９０に変更
+D5,08,81,E1,D5,08,3B,C1と並んでいる直後の74,xx (HEX)を90,90に変更
 
