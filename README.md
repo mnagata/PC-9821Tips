@@ -8,12 +8,15 @@ https://download-drv.com/driver/nec/html/PC-982.htm
 HSB for PC-9801  
 https://www.vector.co.jp/soft/dos/util/se002233.html
 ```
-D5,08,81,E1,D5,08,3B,C1と並んでいる直後の74,xxを90,90に変更
+バイナリエディタで D5,08,81,E1,D5,08,3B,C1 と並んでいる直後の74,xxを90,90に変更
 ```
 
-#### UIDE-98M環境での3.5MO フォーマット
+#### UIDE-98M環境の3.5MOをフォーマット
 I/O DATAのMOUTL.EXEを使う  
 https://www.iodata.jp/lib/software/m/355.htm#MS-DOS
 ```
 MOUTL ASPI
 ```
+
+#### リンク集
+http://cwaweb.bai.ne.jp/~ohishi/index.htm
