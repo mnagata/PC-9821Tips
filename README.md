@@ -19,4 +19,11 @@ MOUTL ASPI
 ```
 
 #### リンク集
+
 http://cwaweb.bai.ne.jp/~ohishi/index.htm
+
+http://www.retropc.net/apollo/
+
+http://www14.big.or.jp/~nijiyume/hard/menu.htm
+
+https://twitter.com/hn12v1_jp/status/1151249418525405184
