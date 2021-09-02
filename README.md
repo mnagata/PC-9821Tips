@@ -20,6 +20,8 @@ MOUTL ASPI
 
 #### リンク集
 
+http://hamlin.html.xdomain.jp/
+
 http://cwaweb.bai.ne.jp/~ohishi/index.htm
 
 http://www.retropc.net/apollo/
