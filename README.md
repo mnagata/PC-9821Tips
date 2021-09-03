@@ -22,6 +22,8 @@ MOUTL ASPI
 
 http://hamlin.html.xdomain.jp/
 
+http://www7a.biglobe.ne.jp/~naopy/pc_98.html
+
 http://cwaweb.bai.ne.jp/~ohishi/index.htm
 
 http://www.retropc.net/apollo/
